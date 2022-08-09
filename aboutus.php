@@ -16,9 +16,9 @@
 
 <div class="container">
 
-<div class="row">
+<div class="row" style="margin-top:5% ! important">
     <div class="col-md-3"></div>
-    <div class="col-md-6">
+    <div class="col-md-6" >
     Mr. Naga sai Thupakula comes to school daily. He comes to learn. His subjects are students' needs, their hurdles and their fears and doubts. His teachers are the experiences and the outcome of every single issue. In his words, "Education begins the day you think you've not learnt anything". We can only say - happy learning.
 "I always believe and keep telling my students that a positive attitude will take you to great altitudes. The intention to contribute to the development of the society is primary. The action will naturally be reciprocal. Bhashyam was born with a strong commitment for a social renaissance, the parents and well wishers took the movement forward."
 
